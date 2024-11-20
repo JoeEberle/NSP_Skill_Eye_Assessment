@@ -18,7 +18,7 @@
 1. **Scene Safety and Precautions**:
    - Ensure the scene is safe.
    - Initiate standard precautions (e.g., gloves).
-   - Introduce yourself and obtain the patient‚Äôs permission to provide assistance.
+   - Introduce yourself and obtain the patientís permission to provide assistance.
 
 2. **Pupil Assessment**:
 
@@ -29,14 +29,14 @@
      - Check if the pupils are the same size. Note any asymmetry if they appear unequal.
    
    - **Light Reaction Test**:
-     - Approach from the side of the patient‚Äôs face and briefly shine a light into the left pupil, then move the light away.
+     - Approach from the side of the patientís face and briefly shine a light into the left pupil, then move the light away.
      - Observe the reaction of both pupils. Both should constrict (get smaller) when the light is shined into the left eye.
    
    - **Repeat on the Right Eye**:
      - Shine the light into the right pupil and observe as before. Both pupils should again constrict.
    
    - **Document Findings**:
-     - Note that pupils are ‚ÄúEqual, Round, and Reactive to Light (PERRL)‚Äù if both pupils constrict symmetrically when exposed to light.
+     - Note that pupils are ìEqual, Round, and Reactive to Light (PERRL)î if both pupils constrict symmetrically when exposed to light.
 
 This streamlined format clearly outlines the steps and criteria for effective pupil assessment.
 
@@ -50,7 +50,7 @@ This streamlined format clearly outlines the steps and criteria for effective pu
 1. **Scene Safety and Precautions**:
    - Ensure the scene is safe.
    - Initiate standard precautions (e.g., gloves).
-   - Introduce yourself and obtain the patient‚Äôs permission to provide assistance.
+   - Introduce yourself and obtain the patientís permission to provide assistance.
 
 2. **Eye Movement Assessment**:
 
@@ -58,16 +58,16 @@ This streamlined format clearly outlines the steps and criteria for effective pu
      - Ask the patient to focus on your nose or the center of your forehead.
    
    - **Position Your Finger**:
-     - Hold your index finger approximately 6-8 inches away from the patient‚Äôs face. Instruct the patient to follow the tip of your finger with their eyes, without moving their head.
+     - Hold your index finger approximately 6-8 inches away from the patientís face. Instruct the patient to follow the tip of your finger with their eyes, without moving their head.
    
    - **Horizontal Movement**:
-     - Slowly move your finger from the center to the right, back to the center, then to the left, and back to the center again. Observe if the patient‚Äôs eyes follow your finger smoothly and in sync with each other.
+     - Slowly move your finger from the center to the right, back to the center, then to the left, and back to the center again. Observe if the patientís eyes follow your finger smoothly and in sync with each other.
    
    - **Vertical Movement**:
-     - Move your finger from the center upward, then downward past the center, and back up to the center. Ensure the patient‚Äôs eyes track the movement smoothly and remain coordinated.
+     - Move your finger from the center upward, then downward past the center, and back up to the center. Ensure the patientís eyes track the movement smoothly and remain coordinated.
    
    - **Convergence Test**:
-     - Move your finger toward yourself a few inches and then slowly bring it closer to the patient‚Äôs nose. Check that the patient‚Äôs eyes follow your finger and converge appropriately.
+     - Move your finger toward yourself a few inches and then slowly bring it closer to the patientís nose. Check that the patientís eyes follow your finger and converge appropriately.
 
 
 ![Solution](code.png)
@@ -75,24 +75,4 @@ This streamlined format clearly outlines the steps and criteria for effective pu
     
 ![Solution](code.png)
 
-    
-## Getting Started
-
-The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
-
-To get started with the **Nsp Skill Eye Assessment** solution repository, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed at the top of the notebook.
-3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and make it your own - **EASY !**
-    
-## List of Figures
- ![additional_image](eye.png)  <br>![additional_image](eye_anatomy.png)  <br>![additional_image](NSP_Skill_Eye_Assessment.png)  <br>![additional_image](puppil_assessment.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
     
