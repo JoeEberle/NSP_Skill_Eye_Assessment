@@ -1,9 +1,9 @@
-2024-10-18 21:58:02,417 - INFO - START NSP_Skill_Eye_Assessment =============================================
-2024-10-18 21:58:02,417 - INFO - START NSP_Skill_Eye_Assessment Start Time = 2024-10-18 21:58:02
-2024-10-18 21:58:02,417 - INFO - NSP_Skill_Eye_Assessment Step 0 - Initialize the configuration file parser
-2024-10-18 21:58:02,418 - INFO - Process NSP_Skill_Eye_Assessment Step 0 - Initializing and starting Logging Process.
-2024-10-18 21:58:02,463 - INFO - PERFORMANCE NSP_Skill_Eye_Assessment The total process duration was:0.05
-2024-10-18 21:58:02,463 - INFO - PERFORMANCE NSP_Skill_Eye_Assessment Stop Time = 2024-10-18 21:58:02
-2024-10-18 21:58:02,463 - INFO - PERFORMANCE NSP_Skill_Eye_Assessment Short process duration less than 3 Seconds:0.05
-2024-10-18 21:58:02,463 - INFO - PERFORMANCE NSP_Skill_Eye_Assessment Performance optimization is not reccomended
-2024-10-18 21:58:02,464 - INFO - END NSP_Skill_Eye_Assessment =============================================
+2024-11-19 23:58:42,876 - INFO - START NSP_Skill_Eye_Assessment =============================================
+2024-11-19 23:58:42,876 - INFO - START NSP_Skill_Eye_Assessment Start Time = 2024-11-19 23:58:42
+2024-11-19 23:58:42,876 - INFO - NSP_Skill_Eye_Assessment Step 0 - Initialize the configuration file parser
+2024-11-19 23:58:42,877 - INFO - Process NSP_Skill_Eye_Assessment Step 0 - Initializing and starting Logging Process.
+2024-11-19 23:58:42,921 - INFO - PERFORMANCE NSP_Skill_Eye_Assessment The total process duration was:0.05
+2024-11-19 23:58:42,921 - INFO - PERFORMANCE NSP_Skill_Eye_Assessment Stop Time = 2024-11-19 23:58:42
+2024-11-19 23:58:42,921 - INFO - PERFORMANCE NSP_Skill_Eye_Assessment Short process duration less than 3 Seconds:0.05
+2024-11-19 23:58:42,922 - INFO - PERFORMANCE NSP_Skill_Eye_Assessment Performance optimization is not reccomended
+2024-11-19 23:58:42,922 - INFO - END NSP_Skill_Eye_Assessment =============================================
